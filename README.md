@@ -22,7 +22,7 @@
 - 📚 **Certifications:**
   - EC-Council Certified Security Analyst (ECSA v9)
   - Machine Learning Scientist with Python
-  - Associate Data Scientist in Python
+  - Data Engineer in Python
 
 - 🔭 **Current Focus:**
   - Exploring new opportunities in technology leadership and cybersecurity innovation
