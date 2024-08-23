@@ -1,16 +1,34 @@
-## Hi there 👋
+# Shamim Reza
 
-<!--
-**shamimrezasohag/shamimrezasohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **Shamim Reza**, a Chief Technology Officer (CTO) with over 15 years of experience in cybersecurity, enterprise solutions, and technology leadership.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Current Role:** Chief Technology Officer at [Pipeline](https://ppln.co/)
+- 💻 **Expertise:** 
+  - Cybersecurity Architecture & Strategy
+  - SOC & CSIRT Building
+  - AI & Machine Learning in Security
+  - DevSecOps & Infrastructure Automation
+  - Threat Hunting & Detection Engineering
+  - Forensic Analysis and Cyber Incident Management
+  - Governance, Risk management and Compliance
+
+- 🌱 **Ongoing Projects:**
+  - Developing cybersecurity training courses and workshops for Phoenix Academy
+  - Expanding TheTeamPhoenix initiative focused on community well-being in cybersecurity
+  - Enhancing AI research applications in security operations
+
+- 📚 **Certifications:**
+  - EC-Council Certified Security Analyst (ECSA v9)
+  - Programming for Everybody (Getting Started with Python)
+  - Python Data Structures
+
+- 🔭 **Current Focus:**
+  - Exploring new opportunities in technology leadership and cybersecurity innovation
+  - Leading advanced threat detection and response initiatives
+
+## Get in Touch
+
+- 📫 **Email:** [sohag.shamim@gmail.com](mailto:sohag.shamim@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/asmshamimreza](https://www.linkedin.com/in/asmshamimreza)
