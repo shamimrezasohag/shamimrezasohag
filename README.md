@@ -13,6 +13,7 @@
   - Threat Hunting & Detection Engineering
   - Forensic Analysis and Cyber Incident Management
   - Governance, Risk management and Compliance
+  - Project Management and Technology Leadership
 
 - 🌱 **Ongoing Projects:**
   - Developing cybersecurity training courses and workshops for Phoenix Academy
