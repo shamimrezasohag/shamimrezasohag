@@ -1,6 +1,6 @@
 # Shamim Reza
 
-👋 Hi, I'm **Shamim Reza**, a Chief Technology Officer (CTO) with over 15 years of experience in cybersecurity, enterprise solutions, and technology leadership.
+👋 Hi, I'm **Shamim Reza**, a Chief Technology Officer (CTO) and CISO with over 15 years of experience in cybersecurity, enterprise solutions, and technology leadership.
 
 ## About Me
 
