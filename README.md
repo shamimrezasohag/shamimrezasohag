@@ -45,6 +45,8 @@ I have had the opportunity to speak at several cybersecurity and technology conf
 - 🎤 **"IP Anycast for Recursive DNS Service - a Hands-on Tutorial for ISPs"** - SANOG 34, Kolkata, India, 2019
 - 🎤 **"Anomaly Detection in DNS Traffic"** - bdNOG 10, Chittagong, 2019
 - 🎤 **"Implementation of DNS Anycast a case study"** - SANOG 32, Dhaka, Bangladesh, 2018
+- 🎤 **"Hunt Down the Evil of your Infrastructure"** - RootConf, Bangalore, India 2018
+- 🎤 **"The Security myth of IPv6 and DNS64"** - RootConf, Bangalore, India 2018
 
 
 ## Research Papers
