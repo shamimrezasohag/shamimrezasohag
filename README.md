@@ -1,6 +1,12 @@
 # Shamim Reza
 
-👋 Hi, I'm **Shamim Reza**, a Chief Technology Officer (CTO) and CISO with over 15 years of experience in cybersecurity, enterprise solutions, and technology leadership.
+Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technology Officer (CTO) and CISO with over 15 years of experience in cybersecurity, enterprise solutions, and technology leadership.
+
+## Get in Touch
+
+- 📫 **Email:** [sohag.shamim@gmail.com](mailto:sohag.shamim@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/asmshamimreza](https://www.linkedin.com/in/asmshamimreza)
+- 📃 **I’m blogging at** [Medium](https://medium.com/@sohag.shamim)
 
 ## About Me
 
@@ -67,8 +73,3 @@ My research primarily focuses on cybersecurity strategies, AI-driven security so
 
 - 🌍 **[TheTeamPhoenix](https://github.com/The-Team-Phoenix):** Repository for TheTeamPhoenix initiative, focused on community-driven cybersecurity projects. (repo dev in progress)
 
-
-## Get in Touch
-
-- 📫 **Email:** [sohag.shamim@gmail.com](mailto:sohag.shamim@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/asmshamimreza](https://www.linkedin.com/in/asmshamimreza)
