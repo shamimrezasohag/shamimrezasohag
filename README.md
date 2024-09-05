@@ -39,6 +39,7 @@ Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technol
 
 I have had the opportunity to speak at several cybersecurity and technology conferences, sharing my unique project deployment and insights and industrial research work:
 
+- 🎤 **"Cyber Threat Landscape of Bangladesh"** - Bangladesh Cyber Security Summit, Dhaka, Bangladesh, 2024
 - 🎤 **"API Security Deep Dive: Defensive Fortifications and Offensive Exploits - Fortifying the Gates: Advanced Strategies for Defending APIs in the Modern Cyber Landscape"** - Phoenix Summit, Dhaka, Bangladesh, 2024
 - 🎤 **"API Security Deep Dive: Defensive Fortifications and Offensive Exploits - Exposing the Underbelly: Offensive Tactics for Exploiting API Vulnerabilities"** - Phoenix Summit, Dhaka, Bangladesh, 2024
 - 🎤 **Exploring the DNS Threat Landscape in Bangladesh."** – renasCON, Dhaka, Bangladesh, 2023
