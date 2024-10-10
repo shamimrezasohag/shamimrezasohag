@@ -15,6 +15,7 @@ Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technol
   - Cybersecurity Architecture & Strategy
   - SOC & CSIRT Building
   - AI & Machine Learning in Security
+  - Network Monitoring and Management Automation
   - DevSecOps & Infrastructure Automation
   - Threat Hunting & Detection Engineering
   - Forensic Analysis and Cyber Incident Management
