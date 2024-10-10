@@ -10,7 +10,7 @@ Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technol
 
 ## About Me
 
-- 🌐 **Current Role:** Chief Technology Officer at [Pipeline](https://ppln.co/)
+- 🌐 **Current Role:** Founder and Chief Researcher at [TheTeamPhoenix](https://theteamphoenix.org/)
 - 💻 **Expertise:** 
   - Cybersecurity Architecture & Strategy
   - SOC & CSIRT Building
