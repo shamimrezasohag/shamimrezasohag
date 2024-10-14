@@ -73,5 +73,5 @@ My research primarily focuses on cybersecurity strategies, AI-driven security so
 - 🔒 **[DNSSecurityAnalysisTools](https://github.com/shamimrezasohag/DSAT-DNSSecurityAnalysisTool):** Python based DNS Security Analysis tools.
 - 🧠 **[Conference Presentation](https://github.com/shamimrezasohag/conf-talk-slides):** The collection of presentations and research work that Shamim has given over the years in conferences and workshops. (repo dev in progress)
 
-- 🌍 **[TheTeamPhoenix](https://github.com/The-Team-Phoenix):** Repository for TheTeamPhoenix initiative, focused on community-driven cybersecurity projects. (repo dev in progress)
+- 🌍 **[TheTeamPhoenix](https://github.com/orgs/The-Team-Phoenix/repositories):** Repository for TheTeamPhoenix initiative, focused on community-driven cybersecurity projects. (repo dev in progress)
 
