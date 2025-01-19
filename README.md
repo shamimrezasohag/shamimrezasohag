@@ -7,6 +7,8 @@ Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technol
 - 📫 **Email:** [sohag.shamim@gmail.com](mailto:sohag.shamim@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/asmshamimreza](https://www.linkedin.com/in/asmshamimreza)
 - 📃 **I’m blogging at** [Medium](https://medium.com/@sohag.shamim)
+- 🐦 Twitter: [X](https://x.com/shamimrezasohag)
+- 🌐 Facebook: [Facebook Page](https://www.facebook.com/ShamimRezaCNB)
 
 ## About Me
 
