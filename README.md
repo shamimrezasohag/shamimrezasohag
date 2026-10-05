@@ -1,6 +1,6 @@
 # Shamim Reza
 
-Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technology Officer (CTO) and CISO with over 16 years of experience in cybersecurity, enterprise solutions, and technology leadership.
+Welcome to my GitHub profile. I'm **Shamim Reza**, Founder and Chief of Research at The Team Phoenix Group, with two decades of experience in cybersecurity, enterprise solutions, and technology leadership. Solving cybersecurity challenges across the South Asian Region.
 
 ## Get in Touch
 
@@ -21,13 +21,12 @@ Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technol
   - DevSecOps & Infrastructure Automation
   - Threat Hunting & Detection Engineering
   - Forensic Analysis and Cyber Incident Management
-  - Governance, Risk management and Compliance
+  - Governance, Risk Management, and Compliance
   - Project Management and Technology Leadership
 
 - 🌱 **Ongoing Projects:**
-  - Developing cybersecurity training courses and workshops for Phoenix Academy
   - Expanding TheTeamPhoenix initiative focused on community well-being in cybersecurity
-  - Enhancing AI research applications in security operations
+  - Enhancing AI/ML research applications in security operations
 
 - 📚 **Certifications:**
   - EC-Council Certified Security Analyst (ECSA v9)
@@ -35,12 +34,11 @@ Welcome to my personal GitHub profile page. I'm **Shamim Reza**, a Chief Technol
   - Data Engineer in Python
 
 - 🔭 **Current Focus:**
-  - Exploring new opportunities in technology leadership and cybersecurity innovation
   - Leading advanced threat detection and response initiatives
  
 ## Conference Talks
 
-I have had the opportunity to speak at several cybersecurity and technology conferences, sharing my unique project deployment and insights and industrial research work:
+I have had the opportunity to speak at several cybersecurity and technology conferences, sharing my unique project deployment insights, and industrial research work:
 
 - 🎤 **"Cyber Threat Landscape of Bangladesh"** - Bangladesh Cyber Security Summit, Dhaka, Bangladesh, 2024
 - 🎤 **"API Security Deep Dive: Defensive Fortifications and Offensive Exploits - Fortifying the Gates: Advanced Strategies for Defending APIs in the Modern Cyber Landscape"** - Phoenix Summit, Dhaka, Bangladesh, 2024
